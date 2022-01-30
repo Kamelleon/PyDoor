@@ -1,2 +1,2 @@
 # PyDoor - Python Backdoor
-PyDoor is backdoor-based software with some interesting features.
+Backdoor software with some useful functions
